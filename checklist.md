@@ -1,4 +1,4 @@
-# Data Science Ethics Checklist
+# Data Science Ethics Checklist (Sample Data Project Name)
 
 [![Deon badge](https://img.shields.io/badge/ethics%20checklist-deon-brightgreen.svg?style=popout-square)](http://deon.drivendata.org/)
 
